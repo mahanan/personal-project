@@ -1,13 +1,13 @@
-# co3bf4140b903611348776830
+# Personal Project 
 
-## About Scrimba
+## About Personal Project
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+This is my journey to mastering the frontend web development 💜
+There will be more content added as I make daily progress to mastery 🎉
+After this I am making a deep-dive to advanced projects with react 🚀
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- [LinkedIn](https://www.linkedin.com/in/stephen-mangai/)
+- [The Frontend Guy](https://website4devs.com/)
+
 
 Happy Coding!
